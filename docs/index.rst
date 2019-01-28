@@ -1,20 +1,57 @@
 .. CLIpedia documentation master file, created by
-   sphinx-quickstart on Sun Jan 27 16:25:18 2019.
+   sphinx-quickstart on Wed Jan 23 12:24:15 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to CLIpedia's documentation!
-====================================
+CLIpedia
+========
+
+CLIpedia curates the thousands of possible Linux CLI applications and filters them down into a list of popular, useful utilities. It also contains other information about Linux, such as process management, networking, debugging, etc.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Contents
 
+   cli/editors
+   cli/viewers
+   cli/creation
+   cli/transformers
+   cli/network
+   cli/counter
+   cli/system
+   cli/search
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Reference
 
-Indices and tables
+   reference/bat
+   reference/cat
+   reference/code
+   reference/fd
+   reference/hd
+   reference/head
+   reference/hexyl
+   reference/htop
+   reference/http
+   reference/jq
+   reference/less
+   reference/mkdir
+   reference/more
+   reference/neofetch
+   reference/nl
+   reference/ramda
+   reference/seq
+   reference/tail
+   reference/tempfile
+   reference/touch
+   reference/vim
+   reference/wc
+   reference/xxd
+
+Indices and search
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
+
