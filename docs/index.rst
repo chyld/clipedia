@@ -29,6 +29,8 @@ CLIpedia curates the thousands of possible Linux CLI applications and filters th
    reference/cat
    reference/code
    reference/fd
+   reference/find
+   reference/grep
    reference/hd
    reference/head
    reference/hexyl
