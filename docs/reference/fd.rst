@@ -6,7 +6,7 @@ A simple, fast and user-friendly alternative to find
 Examples
 --------
 
-*find all the rst files*
+*find all the* ``rst`` *files*
 
 .. code-block:: bash
 

@@ -44,6 +44,7 @@ CLIpedia curates the thousands of possible Linux CLI applications and filters th
    reference/neofetch
    reference/nl
    reference/ramda
+   reference/rg
    reference/seq
    reference/tail
    reference/tempfile
