@@ -48,6 +48,7 @@ CLIpedia curates the thousands of possible Linux CLI applications and filters th
    reference/ramda
    reference/rg
    reference/seq
+   reference/subl
    reference/tail
    reference/tempfile
    reference/touch

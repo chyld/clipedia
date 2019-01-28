@@ -1,5 +1,9 @@
 File Editors
 ============
 
-* :doc:`code </reference/code>`
-* :doc:`vim </reference/vim>`
+=============================  =============================
+Legacy                         Modern
+=============================  =============================
+:doc:`vim </reference/vim>`    :doc:`code </reference/code>`
+\                              :doc:`subl </reference/subl>`
+=============================  =============================
