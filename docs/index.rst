@@ -25,6 +25,7 @@ CLIpedia curates the thousands of possible Linux CLI applications and filters th
    :maxdepth: 1
    :caption: Reference
 
+   reference/ag
    reference/bat
    reference/cat
    reference/code
