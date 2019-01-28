@@ -30,6 +30,7 @@ CLIpedia curates the thousands of possible Linux CLI applications and filters th
    reference/code
    reference/fd
    reference/find
+   reference/fzf
    reference/grep
    reference/hd
    reference/head
