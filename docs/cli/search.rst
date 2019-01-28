@@ -1,6 +1,9 @@
 Search Tools
 ============
 
-* :doc:`fd </reference/fd>`
-* :doc:`find </reference/find>`
-* :doc:`grep </reference/grep>`
+=============================  =========================
+Legacy                         Modern
+=============================  =========================
+:doc:`find </reference/find>`  :doc:`fd </reference/fd>`
+:doc:`grep </reference/grep>`
+=============================  =========================
